@@ -32,8 +32,8 @@ def main():
 
     dt = 0
 
-    score = 90
-    last_shield_score = 90
+    score = 0
+    last_shield_score = 0
 
     while True:
         for event in pygame.event.get():
